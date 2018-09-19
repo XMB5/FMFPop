@@ -13,5 +13,5 @@ Spoof Find My Friends location, without a jailbreak
 8. go to settings \> wifi \> i (next to network name) \> proxy
 9. enter computer ip address and port 8001
 
-# License
+## License
 GPLv3 - see LICENSE file
