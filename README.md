@@ -11,3 +11,6 @@ Spoof Find My Friends location, without a jailbreak
 5. install root ca and go to settings \> general \> about \> certificate trust settings \> enable anyproxy
 6. go to settings \> wifi \> i (next to network name) \> proxy
 7. enter computer ip address and port 8001
+
+# License
+GPLv3 - see LICENSE file
